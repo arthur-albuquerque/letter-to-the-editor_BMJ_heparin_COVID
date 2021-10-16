@@ -87,7 +87,7 @@ dist %>%
   geom_vline(xintercept = 1/0.9, linetype = 2 , color = "gray30") +
   scale_x_continuous(breaks = c(1,seq(0.3, 1.5, 0.2))) +
   coord_cartesian(x = c(0.2, 1.6)) +
-  labs(x = "\nOdds Ratios",
+  labs(x = "\nOdds Ratio",
        y = "Density",
        title = "Primary Composite Outcome: Posterior Distribution Assuming a Vague Prior",
        subtitle = paste0("\n \nPr(< 1.0)    = ",probs$less1,
