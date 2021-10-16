@@ -92,7 +92,7 @@ dist %>%
        title = "Primary Composite Outcome: Posterior Distribution Assuming a Vague Prior",
        subtitle = paste0("\n \nPr(< 1.0)    = ",probs$less1,
                          "\n \nPr(< 0.9)    = ",probs$less09),
-       caption = "ROPE: range of practical equivalence") +
+       caption = "ROPE: region of practical equivalence") +
   theme(
     plot.title.position = 'plot',
     axis.ticks.x = element_blank(),
