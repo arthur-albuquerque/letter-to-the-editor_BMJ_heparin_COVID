@@ -51,7 +51,7 @@ vague = post.normal.mean(prior.mean = 0, prior.var = 100,
 set.seed(123) # set seed for reproducibility
 N = 10e4
 
-# Generate 10,000 samples
+# Generate 100,000 samples
 dist = dplyr::tibble(posterior = rnorm(N,
                                 mean = vague$post.mean,
                                 sd = sqrt(vague$post.var)))
