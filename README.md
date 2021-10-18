@@ -1,4 +1,4 @@
-This repository contains the R code (`analysis.R` file) underlying the BMJ's Rapid Response titled:
+This repository contains the code (`analysis.R` file) underlying the BMJ's Rapid Response titled:
 
 ["There is a high probability of clinically important benefit in the primary composite outcome"](https://www.bmj.com/content/375/bmj.n2400/rr)
 
@@ -6,7 +6,7 @@ by [Arthur M. Albuquerque](https://twitter.com/arthur_alb1), Carolina B. Santoli
 
 ## Getting started
 
-All analyses were conducted in R (R Environment version 4.0.4). 
+Analysis was conducted in R (R Environment version 4.0.4). 
 
 1.  To download all files and reproduce our analysis, we suggest cloning this repository. Here is a tutorial article in case you are not familiar with this process:
 
