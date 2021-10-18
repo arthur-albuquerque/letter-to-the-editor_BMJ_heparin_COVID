@@ -8,7 +8,7 @@ by [Arthur M. Albuquerque](https://twitter.com/arthur_alb1), Carolina B. Santoli
 
 All analyses were conducted in R (R Environment version 4.0.4). 
 
-1.  To download all files and reproduce our analyses, we suggest cloning this repository. Here is a tutorial article in case you are not familiar with this process:
+1.  To download all files and reproduce our analysis, we suggest cloning this repository. Here is a tutorial article in case you are not familiar with this process:
 
     *Vuorre M, Curley JP. Curating Research Assets: A Tutorial on the Git Version Control System. Advances in Methods and Practices in Psychological Science 2018;1:219–36.* [https://doi.org/10.1177%2F2515245918754826](https://doi.org/10.1177%2F2515245918754826)
 
