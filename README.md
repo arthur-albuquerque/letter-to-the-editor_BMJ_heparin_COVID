@@ -2,7 +2,7 @@ This repository contains the R code (`analysis.R` file) underlying the BMJ's Rap
 
 ["There is a high probability of clinically important benefit in the primary composite outcome"](https://www.bmj.com/content/375/bmj.n2400/rr)
 
-by Arthur M. Albuquerque, Carolina B. Santolia, and James M. Brophy
+by [Arthur M. Albuquerque](https://twitter.com/arthur_alb1), Carolina B. Santolia, and [James M. Brophy](https://twitter.com/brophyj)
 
 ## Getting started
 
